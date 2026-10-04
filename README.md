@@ -12,7 +12,8 @@ Hello! My name is YB-Jeorgie!,An Independent Developer Who Lives In The Philippi
 ![](https://streak-stats.demolab.com/?user=YB-Jeorgie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YB-Jeorgie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo <img src="https://openmoji.org" width="30" height="30" valign="middle">
+
 [![Top Contributed Repos](https://vercel.app)](https://github.com/YB-Jeorgie/estregg-ybj)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
